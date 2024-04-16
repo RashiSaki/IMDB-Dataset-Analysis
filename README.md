@@ -11,7 +11,7 @@ The steps to complete the project are:
 • Running Spark cluster tasks via Jupyter Notebook
   o Installing and importing necessary dependencies (pandas and matplotlib) 
   o Loading data from S3 into a Spark dataframe object
-  o Performingthebasictaskofreviewingcolumnsandnumberofrows
+  o Performing the basic taskofreviewingcolumnsandnumberofrows
   o AnalyzingGenresbydenormalizingtheminthedataset
   o CreaAngverAcalandhorizontalbarchartsusingmatplotlib o AnsweringquesAons
 
